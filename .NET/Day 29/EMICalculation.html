@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EMI Calculation</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+    <script>
+
+        function calculateEMI() {
+
+            var principal = parseFloat(document.getElementById('principalAmount').value);
+
+            var duration = parseFloat(document.getElementById('duration').value);
+
+            var rate = parseFloat(document.getElementById('interestRate').value);
+
+            var errorMessage = "";
+
+            if (principal < 100000 || isNaN(principal)) {
+
+                errorMessage += "Please enter a valid principal amount (minimum 100000).<br>";
+
+            }
+
+            if (duration < 2 || isNaN(duration)) {
+
+                errorMessage += "Please enter a valid duration in years (minimum 2 years).<br>";
+
+            }
+
+            if (rate < 8 || rate > 14 || isNaN(rate)) {
+
+                errorMessage += "Please enter a valid rate of interest (between 8 and 14 only).<br>";
+
+            }
+
+            if (errorMessage !== "") {
+
+                document.getElementById('error').innerHTML = errorMessage;
+
+                document.getElementById('result').innerText = "";
+
+            } else {
+
+                var simpleInterest = (principal * duration * rate) / 100;
+
+                document.getElementById('error').innerText = "";
+
+                document.getElementById('result').innerText = "Simple Interest: " + simpleInterest.toFixed(2);
+
+            }
+
+        }
+
+    </script>
+
+<body>
+
+    <h1>EMI Calculation</h1>
+
+    <form id="emiForm">
+
+        <label for="principalAmount">Enter Principal Amount (minimum 100000):</label>
+
+        <input type="number" id="principalAmount" name="principalAmount" min="100000" required><br><br>
+
+        <label for="duration">Enter Duration in Years (minimum 2 years):</label>
+
+        <input type="number" id="duration" name="duration" min="2" required><br><br>
+
+        <label for="interestRate">Enter Rate of Interest (between 8 and 14 only):</label>
+
+        <input type="number" id="interestRate" name="interestRate" min="8" max="14" required><br><br>
+
+        <button type="button" onclick="calculateEMI()">Calculate EMI</button>
+
+    </form>
+
+    <h3 id="error" style="color: red;"></h3>
+
+    <h3 id="result" style="color: blue;"></h3>
+</body>
+
+</html>

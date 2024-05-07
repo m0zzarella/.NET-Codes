@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\bin\Debug\net7.0\Loops_Demo.exe
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\bin\Debug\net7.0\Loops_Demo.deps.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\bin\Debug\net7.0\Loops_Demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\bin\Debug\net7.0\Loops_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\bin\Debug\net7.0\Loops_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\refint\Loops_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\Loops_Demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\Loops_Demo\obj\Debug\net7.0\ref\Loops_Demo.dll

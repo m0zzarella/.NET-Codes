@@ -1,0 +1,38 @@
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.exe
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.deps.json
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.runtimeconfig.json
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.pdb
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\refint\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.pdb
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Test\HTTPsClientCalls\obj\Debug\net7.0\ref\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.exe
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.deps.json
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\HTTPsClientCalls.pdb
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\refint\HTTPsClientCalls.dll
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.pdb
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\HTTPsClientCalls.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day 26\HTTPsClientCalls\obj\Debug\net7.0\ref\HTTPsClientCalls.dll

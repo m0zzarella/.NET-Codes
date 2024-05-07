@@ -1,0 +1,105 @@
+1. REST api with primitive data types
+2. REST api with List<string> - primitive datatype
+3. REST api with List<objects> - custom datatype
+4. REST api with databases
+	visual studio will take careof all the code
+	if you use EF and linq
+	for Ado.net you need to write the code
+
+----------------------------------------------------------------------------------------------------
+
+		steps for WebAPI with DB useing EF Core - CRUD Operations
+
+1. create a database productsDB
+2. add a table productDetails
+	pId pk, pname, pcategoty, pprice, pIsinStock, pAvailbleQty
+
+	add 5 records to the table
+3. create a new webapi application - productsAPI_EF
+4. install entity framework in the app
+5. download poco classes
+6.
+7.
+8.
+
+9. in the existing database add the below table
+	customerDetails
+		cId int pk ,cName, cCity, cWalletBalance,cIsActive
+	
+	add 5 records
+
+10. in the same application  productsAPI_EF - we need 1 more controller for customerDetails model
+		how can you achive this ?
+
+-----------------------------------------------------------------------------
+
+1. DataAnnotation
+2. Custom Methods
+3. Dependency Injection (this is the most talked about feature in every application framework today
+		java, .net, angular, react, node etcc....)
+
+----------------------------------------------------------------------------
+1. create a new database - shoppingDB_API
+2. create 3 tables as below
+	products
+		pId
+		pName, pPrice, pAvailbleQty, pIsInStock, pDicountPercentage,pOfferCode,pOfferCodePercentage
+
+add 10 records
+
+3. add a new table customerDetails
+	cId, cName, cCity, cWalletBalance, cEmail
+
+	add 3 customers
+
+4. add a table table orderDetails
+	oId, oProductId [FK to products],cId [fk to customers], orderTotal
+	
+	add 2 records
+
+5. create a new api app, enable EF, download poco classes
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

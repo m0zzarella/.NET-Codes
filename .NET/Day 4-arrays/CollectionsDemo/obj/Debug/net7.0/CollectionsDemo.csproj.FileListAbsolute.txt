@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\bin\Debug\net7.0\CollectionsDemo.exe
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\bin\Debug\net7.0\CollectionsDemo.deps.json
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\bin\Debug\net7.0\CollectionsDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\bin\Debug\net7.0\CollectionsDemo.dll
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\bin\Debug\net7.0\CollectionsDemo.pdb
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.dll
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\refint\CollectionsDemo.dll
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.pdb
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\CollectionsDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day4-Arrays\CollectionsDemo\obj\Debug\net7.0\ref\CollectionsDemo.dll

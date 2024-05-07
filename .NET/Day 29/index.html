@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <script>
+        function multiplyNumbers()
+        {
+            var n1 = parseInt(document.getElementById("firstNum").value);
+            var n2 = parseInt(document.getElementById("secondNum").value);
+
+            if(n1 == 0 || n2 == 0)
+            {
+               // alert('Any number multiplied by Zero, gives 0');
+               document.getElementById("errorline").innerHTML = "Any number multiplied by Zero, gives 0";
+            }
+            else if(n1 < 2)
+            {
+                
+                document.getElementById("errorline").innerHTML = "Please enter First numer  greater than 2";
+            }
+            else if(n2 < 2)
+            {
+                document.getElementById("errorline").innerHTML = "Please enter Second numer  greater than 2";
+                
+            }  
+            else
+            {                   
+            var multiplication = n1 * n2;
+            //alert(multiplication);
+            document.getElementById("resultline").innerHTML = "Multiplication is : " + multiplication;
+            }
+            
+        }
+    </script>
+    <script src="javascript-greet.js"></script>
+   
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="Greet()"> Greet !! </button>
+
+    <button onclick="Calculate(20,90)"> Show Addition </button> <br/>
+
+
+    <input type="number" placeholder="Please Enter First Numer here" id="firstNum"/> <br/>
+    <input type="number" placeholder="Please Enter Second Numer here" id="secondNum"/> <br/>
+
+    <button onclick="multiplyNumbers()">Multiply</button>
+    <h3 id="errorline" style="color: red;"></h3>
+    <h3 id="resultline" style="color: green;"></h3>
+
+</body>
+</html>
+

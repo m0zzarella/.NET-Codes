@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\bin\Debug\net7.0\OOPs_basics.exe
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\bin\Debug\net7.0\OOPs_basics.deps.json
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\bin\Debug\net7.0\OOPs_basics.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\bin\Debug\net7.0\OOPs_basics.dll
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\bin\Debug\net7.0\OOPs_basics.pdb
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.dll
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\refint\OOPs_basics.dll
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.pdb
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\OOPs_basics.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day4-arrays\OOPs_basics\obj\Debug\net7.0\ref\OOPs_basics.dll

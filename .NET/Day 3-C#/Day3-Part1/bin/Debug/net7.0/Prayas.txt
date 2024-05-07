@@ -1,0 +1,6 @@
+EmpName: Prayas
+EmpLastName: Sanyal
+EmpCity: Kolkata
+EmpDesig: ASE
+EmpSalary: 0
+EmpLeaves: 10

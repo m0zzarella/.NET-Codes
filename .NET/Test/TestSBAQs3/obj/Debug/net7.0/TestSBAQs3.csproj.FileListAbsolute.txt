@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\bin\Debug\net7.0\TestSBAQs3.exe
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\bin\Debug\net7.0\TestSBAQs3.deps.json
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\bin\Debug\net7.0\TestSBAQs3.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\bin\Debug\net7.0\TestSBAQs3.dll
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\bin\Debug\net7.0\TestSBAQs3.pdb
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.dll
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\refint\TestSBAQs3.dll
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.pdb
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\TestSBAQs3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Test\TestSBAQs3\obj\Debug\net7.0\ref\TestSBAQs3.dll

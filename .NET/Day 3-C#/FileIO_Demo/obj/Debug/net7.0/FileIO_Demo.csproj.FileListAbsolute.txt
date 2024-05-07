@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\bin\Debug\net7.0\FileIO_Demo.exe
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\bin\Debug\net7.0\FileIO_Demo.deps.json
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\bin\Debug\net7.0\FileIO_Demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\bin\Debug\net7.0\FileIO_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\bin\Debug\net7.0\FileIO_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\refint\FileIO_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\FileIO_Demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\FileIO_Demo\obj\Debug\net7.0\ref\FileIO_Demo.dll

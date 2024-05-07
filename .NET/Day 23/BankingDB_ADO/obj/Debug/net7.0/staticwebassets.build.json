@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "26f5gW1V703sdsJGNSUIi4nEapRJUt0znixHqdb6D6M=",
+  "Source": "BankingDB_ADO",
+  "BasePath": "_content/BankingDB_ADO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

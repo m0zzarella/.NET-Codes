@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\bin\Debug\net7.0-windows\EmployeeManagement_WinForms.exe
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\bin\Debug\net7.0-windows\EmployeeManagement_WinForms.deps.json
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\bin\Debug\net7.0-windows\EmployeeManagement_WinForms.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\bin\Debug\net7.0-windows\EmployeeManagement_WinForms.dll
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\bin\Debug\net7.0-windows\EmployeeManagement_WinForms.pdb
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.AddNewEmployee.resources
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.dll
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\refint\EmployeeManagement_WinForms.dll
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.pdb
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\EmployeeManagement_WinForms.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day 18\EmployeeManagement_WinForms\obj\Debug\net7.0-windows\ref\EmployeeManagement_WinForms.dll

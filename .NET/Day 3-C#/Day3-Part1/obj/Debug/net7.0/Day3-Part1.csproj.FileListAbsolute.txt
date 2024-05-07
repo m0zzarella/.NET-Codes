@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\bin\Debug\net7.0\Day3-Part1.exe
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\bin\Debug\net7.0\Day3-Part1.deps.json
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\bin\Debug\net7.0\Day3-Part1.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\bin\Debug\net7.0\Day3-Part1.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\bin\Debug\net7.0\Day3-Part1.pdb
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\refint\Day3-Part1.dll
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.pdb
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\Day3-Part1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day3-C#\Day3-Part1\obj\Debug\net7.0\ref\Day3-Part1.dll

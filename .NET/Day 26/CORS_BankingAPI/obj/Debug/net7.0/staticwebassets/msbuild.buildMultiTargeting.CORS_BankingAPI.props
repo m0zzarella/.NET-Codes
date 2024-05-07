@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CORS_BankingAPI.props" />
+</Project>

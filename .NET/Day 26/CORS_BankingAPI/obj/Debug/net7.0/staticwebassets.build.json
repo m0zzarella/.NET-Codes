@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5fLrSXYDR8eqsYQKdkVZV3lbkFNFoHWTIq9Cm22FX60=",
+  "Source": "CORS_BankingAPI",
+  "BasePath": "_content/CORS_BankingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\bin\Debug\net7.0\LINQ_To_Collection.exe
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\bin\Debug\net7.0\LINQ_To_Collection.deps.json
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\bin\Debug\net7.0\LINQ_To_Collection.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\bin\Debug\net7.0\LINQ_To_Collection.dll
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\bin\Debug\net7.0\LINQ_To_Collection.pdb
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.dll
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\refint\LINQ_To_Collection.dll
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.pdb
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\LINQ_To_Collection.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day 16\LINQ_To_Collection\obj\Debug\net7.0\ref\LINQ_To_Collection.dll

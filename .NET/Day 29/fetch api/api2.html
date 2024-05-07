@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <script>
+        function getPostData(){
+            var url="https://jsonplaceholder.typicode.com/comments";
+ 
+            fetch(url)
+                     .then(responseDataType =>responseDataType.json())
+                     .then(responseData=>{
+                        // alert('Got data');
+                        // console.log(responseData);
+                        var table=document.getElementById("tblPost");
+                        for(let i=0;i<responseData.length;i++){
+                            var row=table.insertRow(i);
+                            var col_1=row.insertCell(0);
+                            var col_2=row.insertCell(1);
+                            var col_3=row.insertCell(2);
+                            var col_4=row.insertCell(3);
+                            var col_5=row.insertCell(4);
+ 
+ 
+                            col_1.innerHTML=responseData[i].id;
+                            col_2.innerHTML=responseData[i].postId;
+                            col_3.innerHTML=responseData[i].name;
+                            col_4.innerHTML=responseData[i].email;
+                            col_4.innerHTML=responseData[i].body;
+ 
+                         }
+                     })
+                     .catch(errInfo =>{
+                        alert('Error');
+                     })
+        }
+    </script>
+ 
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="getPostData()">Get Post</button>
+    <table id="tblPost" border="1"></table>
+</body>
+</html>

@@ -1,0 +1,6 @@
+Name: Jerry Doe
+City: Pune
+Favourite Movie: Arrival
+Favourite Dish: Pasta
+Favourite Sports: Football
+Description about user: No

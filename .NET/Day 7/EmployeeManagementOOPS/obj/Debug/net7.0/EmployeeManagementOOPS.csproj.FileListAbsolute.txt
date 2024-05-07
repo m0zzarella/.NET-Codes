@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\bin\Debug\net7.0\EmployeeManagementOOPS.exe
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\bin\Debug\net7.0\EmployeeManagementOOPS.deps.json
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\bin\Debug\net7.0\EmployeeManagementOOPS.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\bin\Debug\net7.0\EmployeeManagementOOPS.dll
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\bin\Debug\net7.0\EmployeeManagementOOPS.pdb
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.dll
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\refint\EmployeeManagementOOPS.dll
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.pdb
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\EmployeeManagementOOPS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day7\EmployeeManagementOOPS\obj\Debug\net7.0\ref\EmployeeManagementOOPS.dll

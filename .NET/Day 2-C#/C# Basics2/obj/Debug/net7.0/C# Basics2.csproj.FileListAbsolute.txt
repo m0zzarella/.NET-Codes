@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\bin\Debug\net7.0\C# Basics2.exe
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\bin\Debug\net7.0\C# Basics2.deps.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\bin\Debug\net7.0\C# Basics2.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\bin\Debug\net7.0\C# Basics2.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\bin\Debug\net7.0\C# Basics2.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\refint\C# Basics2.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\C# Basics2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\C# Basics2\obj\Debug\net7.0\ref\C# Basics2.dll

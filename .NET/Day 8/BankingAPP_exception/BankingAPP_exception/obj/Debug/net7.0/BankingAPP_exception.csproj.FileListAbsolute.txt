@@ -1,0 +1,15 @@
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\bin\Debug\net7.0\BankingAPP_exception.exe
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\bin\Debug\net7.0\BankingAPP_exception.deps.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\bin\Debug\net7.0\BankingAPP_exception.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\bin\Debug\net7.0\BankingAPP_exception.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\bin\Debug\net7.0\BankingAPP_exception.pdb
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\refint\BankingAPP_exception.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.pdb
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\BankingAPP_exception.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 8\BankingAPP_exception\BankingAPP_exception\obj\Debug\net7.0\ref\BankingAPP_exception.dll

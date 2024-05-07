@@ -1,0 +1,195 @@
+					Dependency Injection
+
+
+1. When you create a new object, you are responsible to destroy the object from memory
+	(we never did it)
+2. An object contains references to many other objects, recources, memory, points etc...
+	Eg.
+	public class ProductsController : ControllerBase
+	{
+		empDbContext db = new empDbContext();
+		productDetails pObj = new productDetails(); --this may have objects of
+								sqlconnection con = new sqlconnection()
+								and 
+								sqlcommand cmd = new sqlcommand();
+		Filestream fs = new Filestream(...); 
+
+	}
+
+	an object of ProductsController will contain references to other objects as well
+
+	this will be in memory
+
+	if the user logs out, closes the application, objects are not closed until machine is shut down
+
+	on a web server, this is a bad thing, as there are 1000's of users which comes to see the data every 
+		minute / hour / day
+
+	every user will keep createing an object, which will keep flooding, bloating the ram/memory
+	and performance will degrade, and finally when memory is full, server will crash
+
+	so that is why it is always recommended to use destructor code, to destroy the objects
+	-------
+	but do not do it, we dont know it, we did not learn it, it is also very boring and difficult
+
+	---
+	we dont need to worry, if we are useing .net core or Java as there is an extra service which runs in
+		the background - called GC (garbage collector) - which will clear the unreferences, unwanted objects for you from the memory
+
+	This made a happy world
+	--
+		but, GC has its own drawback, 1 of them is
+		1. it has no fixed time, when it will clear the  unreferences, unwanted objects for you from 			the memory
+		it may clear it after 2 hours, or 8 hours or after 2 days, or after 2 months
+
+		thus we cannot depend on gc much as it is not reliable for enterprise applications
+
+	--- To solve this problem, standard was made, and a great idea evolved
+		Let developer do not create the object,
+		Let runtime, create the object and let runtime destroy the object
+		to achive this, developer needs to tell application, what kind of object is this ?
+
+		there are 3 catageries of objects
+
+	1. PerCall (new object is created for every request, request is processed, and object is destroyed 			after response is given from server)
+
+
+	2. PerUser (new object is created on server for every user that connects to server, and object will get destroyed when user goes away, (log out, close the browser, inactive to 20 mins)
+		20 users, there are 20 objects on server 
+		2 went away, now there are 18
+		
+	3. SingleTon
+		a common object for all the users, gets created when application starts and destroyed when server shuts down, restarts
+
+
+------------------
+	so now when you create the object next time, you need to know what type of object it is and then u configure that object in program.cs file to be 1 of the above category
+		(mostly this objects are decided based on the data inside the object)
+		1. Percall (transcient)- this are the object contains the data, which changes everytime the request comes to the server (eg. currencyRate, stockmarket)
+
+
+		2. Peruser (scoped) - this are the objects, which contains, personal, confendential data of user - login to Bankaccount - where data is personal to every user and not shared thus new object is created for every user (BankAccount, employee data)
+
+		3. Singleton -(singleton) this are the objects which has data which does not change for users accross the application
+			eg. ProductList, which remains same for every user accross the app					IRCTC, train schedule
+
+		----------------------------------------
+		There are 2 simple steps to configure this
+
+	when you need an object in side another class
+	just say
+	1. ProductDetails pObj; (do not use new keyword) - new object will be created by runtime
+		and you collect the reference of that new object as soon as a class object is created
+
+		a. ProductDetails pObj; 
+		     //obj will be created and destroyed by runtime
+                     //collect that obj reference as soon as a new obj of product controller gets activated
+                     //you do it in a contstructor
+
+		b. 
+		public ProductsController(ProductDetails pObjREF)
+		{
+  			  pObj = pObjREF;
+		}
+	2. in program.cs tell what is the category of this object
+		builder.Services.AddTransient(typeof(productsCollectionAPI.ProductDetails));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

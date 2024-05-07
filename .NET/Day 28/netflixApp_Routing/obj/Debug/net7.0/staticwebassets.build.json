@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mZ3Dq8chJEMUCa6fGIN4yiA2D+XsVIt+wLrFUqN02zk=",
+  "Source": "netflixApp_Routing",
+  "BasePath": "_content/netflixApp_Routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\netflixApp_Routing.props" />
+</Project>

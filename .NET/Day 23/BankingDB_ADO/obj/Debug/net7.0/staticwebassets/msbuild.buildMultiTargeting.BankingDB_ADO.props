@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BankingDB_ADO.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\bin\Debug\net7.0\InsuranceManagement.exe
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\bin\Debug\net7.0\InsuranceManagement.deps.json
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\bin\Debug\net7.0\InsuranceManagement.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\bin\Debug\net7.0\InsuranceManagement.dll
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\bin\Debug\net7.0\InsuranceManagement.pdb
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.dll
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\refint\InsuranceManagement.dll
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.pdb
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\InsuranceManagement.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day7\InsuranceManagement\obj\Debug\net7.0\ref\InsuranceManagement.dll

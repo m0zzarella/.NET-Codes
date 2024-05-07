@@ -1,0 +1,6 @@
+Name: John Doe
+City: Mumbai
+Favourite Movie: Raging Bull
+Favourite Dish: Pizza
+Favourite Sports: Cricket
+Description about user: No

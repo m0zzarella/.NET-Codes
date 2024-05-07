@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSBAQs3", "TestSBAQs3.csproj", "{235F7252-3E3B-48F6-BA0F-60F74C4FB144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235F7252-3E3B-48F6-BA0F-60F74C4FB144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235F7252-3E3B-48F6-BA0F-60F74C4FB144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235F7252-3E3B-48F6-BA0F-60F74C4FB144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235F7252-3E3B-48F6-BA0F-60F74C4FB144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D65F37-C4F1-4AB7-8958-7844D9C9229C}
+	EndGlobalSection
+EndGlobal

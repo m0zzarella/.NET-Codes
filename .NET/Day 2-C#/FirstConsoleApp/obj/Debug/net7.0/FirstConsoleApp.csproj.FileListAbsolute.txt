@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.exe
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.deps.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\refint\FirstConsoleApp.dll
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.pdb
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day2-C#\FirstConsoleApp\obj\Debug\net7.0\ref\FirstConsoleApp.dll

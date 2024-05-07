@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\bin\Debug\net7.0\Static_Demo.exe
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\bin\Debug\net7.0\Static_Demo.deps.json
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\bin\Debug\net7.0\Static_Demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\bin\Debug\net7.0\Static_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\bin\Debug\net7.0\Static_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\refint\Static_Demo.dll
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.pdb
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\Static_Demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day8\Static_Demo\obj\Debug\net7.0\ref\Static_Demo.dll

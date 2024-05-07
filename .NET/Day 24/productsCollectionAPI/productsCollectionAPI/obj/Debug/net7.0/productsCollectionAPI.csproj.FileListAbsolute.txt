@@ -1,0 +1,67 @@
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.exe
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.deps.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.pdb
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.AssemblyReference.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.productsCollectionAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.productsCollectionAPI.props
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.productsCollectionAPI.props
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.productsCollectionAPI.props
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\scopedcss\bundle\productsCollectionAPI.styles.css
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.CopyComplete
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\refint\productsCollectionAPI.dll
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.pdb
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\EY 24\E-Y-Induction-24\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\ref\productsCollectionAPI.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.exe
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.deps.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\productsCollectionAPI.pdb
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.productsCollectionAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.productsCollectionAPI.props
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.productsCollectionAPI.props
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.productsCollectionAPI.props
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\scopedcss\bundle\productsCollectionAPI.styles.css
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\refint\productsCollectionAPI.dll
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.pdb
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\productsCollectionAPI.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\.NET\Day 24\productsCollectionAPI\productsCollectionAPI\obj\Debug\net7.0\ref\productsCollectionAPI.dll

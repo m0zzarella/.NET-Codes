@@ -1,0 +1,6 @@
+Name: Jane Doe
+City: Hyderabad
+Favourite Movie: Elephant Sitting Still
+Favourite Dish: Cake
+Favourite Sports: Fooseball
+Description about user: No

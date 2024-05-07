@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale-1.0">
+<script>
+function getPostData()
+ {
+var url = "https://jsonplaceholder.typicode.com/posts";
+
+    fetch(url)
+            .then(responseDataType => responseDataType.json())
+            .then(responseData => {
+                
+                var table = document.getElementById("tblPost");
+    
+
+                for(i=0;i<responseData;i++)
+                {
+                    var row = table.insertRow(0);
+                
+                    var col1 = table.insertCell(1);
+                    var col2 = table.insertCell(2);
+                    var col3 = table.insertCell(3);
+                    var col4 = table.insertCell(4);
+
+                    
+
+
+                }
+                
+                console.log(responseData)})
+
+            .catch(errInfo => {alert('Error');})
+
+} 
+
+</script>
+<title>Document</title>
+</head> <body>
+<button onclick="getPostData()">Get Post Data   </button>
+</body> </html>
